@@ -1,0 +1,3 @@
+﻿  Zad1Lab1TD.cpp
+C:\Users\Kreativ\source\repos\Zad1Lab1TD\Zad1Lab1TD\Zad1Lab1TD.cpp(38,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  Zad1Lab1TD.vcxproj -> C:\Users\Kreativ\source\repos\Zad1Lab1TD\Debug\Zad1Lab1TD.exe

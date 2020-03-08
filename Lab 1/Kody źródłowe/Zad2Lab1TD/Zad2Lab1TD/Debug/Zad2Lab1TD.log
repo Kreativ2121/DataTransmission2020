@@ -1,0 +1,11 @@
+﻿  Zad2Lab1TD.cpp
+C:\Users\Kreativ\source\repos\Zad2Lab1TD\Zad2Lab1TD\Zad2Lab1TD.cpp(13,29): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Kreativ\source\repos\Zad2Lab1TD\Zad2Lab1TD\Zad2Lab1TD.cpp(24,17): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Zad2Lab1TD\Zad2Lab1TD\Zad2Lab1TD.cpp(25,17): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Zad2Lab1TD\Zad2Lab1TD\Zad2Lab1TD.cpp(27,17): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Zad2Lab1TD\Zad2Lab1TD\Zad2Lab1TD.cpp(29,17): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Zad2Lab1TD\Zad2Lab1TD\Zad2Lab1TD.cpp(47,29): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Zad2Lab1TD\Zad2Lab1TD\Zad2Lab1TD.cpp(49,26): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Zad2Lab1TD\Zad2Lab1TD\Zad2Lab1TD.cpp(51,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Zad2Lab1TD\Zad2Lab1TD\Zad2Lab1TD.cpp(71,66): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  Zad2Lab1TD.vcxproj -> C:\Users\Kreativ\source\repos\Zad2Lab1TD\Debug\Zad2Lab1TD.exe
