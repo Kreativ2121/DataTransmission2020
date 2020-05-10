@@ -1,0 +1,14 @@
+﻿  Lab8TD.cpp
+C:\Users\Kreativ\source\repos\Lab8TD\Lab8TD\Lab8TD.cpp(75,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab8TD\Lab8TD\Lab8TD.cpp(127,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab8TD\Lab8TD\Lab8TD.cpp(157,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab8TD\Lab8TD\Lab8TD.cpp(176,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab8TD\Lab8TD\Lab8TD.cpp(207,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab8TD\Lab8TD\Lab8TD.cpp(240,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab8TD\Lab8TD\Lab8TD.cpp(276,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab8TD\Lab8TD\Lab8TD.cpp(308,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab8TD\Lab8TD\Lab8TD.cpp(316,29): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab8TD\Lab8TD\Lab8TD.cpp(332,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab8TD\Lab8TD\Lab8TD.cpp(358,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab8TD\Lab8TD\Lab8TD.cpp(385,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Lab8TD.vcxproj -> C:\Users\Kreativ\source\repos\Lab8TD\Debug\Lab8TD.exe
