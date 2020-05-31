@@ -1,0 +1,14 @@
+﻿  Lab10TD.cpp
+C:\Users\Kreativ\source\repos\Lab10TD — kopia zapasowa v.01a\Lab10TD\Lab10TD.cpp(259,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD — kopia zapasowa v.01a\Lab10TD\Lab10TD.cpp(311,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD — kopia zapasowa v.01a\Lab10TD\Lab10TD.cpp(363,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD — kopia zapasowa v.01a\Lab10TD\Lab10TD.cpp(390,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD — kopia zapasowa v.01a\Lab10TD\Lab10TD.cpp(420,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD — kopia zapasowa v.01a\Lab10TD\Lab10TD.cpp(439,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD — kopia zapasowa v.01a\Lab10TD\Lab10TD.cpp(470,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD — kopia zapasowa v.01a\Lab10TD\Lab10TD.cpp(478,29): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD — kopia zapasowa v.01a\Lab10TD\Lab10TD.cpp(812,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD — kopia zapasowa v.01a\Lab10TD\Lab10TD.cpp(822,44): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD — kopia zapasowa v.01a\Lab10TD\Lab10TD.cpp(836,44): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD — kopia zapasowa v.01a\Lab10TD\Lab10TD.cpp(850,44): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Lab10TD.vcxproj -> C:\Users\Kreativ\source\repos\Lab10TD — kopia zapasowa v.01a\Debug\Lab10TD.exe
