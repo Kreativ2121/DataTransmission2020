@@ -1,0 +1,38 @@
+﻿  Lab10TD.cpp
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(431,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(454,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(456,22): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(457,22): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(458,22): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(464,25): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(465,25): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(466,25): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(467,25): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(477,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(493,29): warning C4244: "argument": konwersja z "double" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(494,29): warning C4244: "argument": konwersja z "double" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(495,29): warning C4244: "argument": konwersja z "double" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(498,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(506,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(513,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(520,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(529,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(538,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(545,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(554,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(561,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(569,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kreativ\source\repos\Lab10TD\Lab10TD\Lab10TD.cpp(580,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Lab10TD.vcxproj -> C:\Users\Kreativ\source\repos\Lab10TD\Debug\Lab10TD.exe
